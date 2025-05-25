@@ -16,9 +16,6 @@ Artificial-intelligence products now cover nearly every part of modern work and 
 - [Insight & Decision Support](#insight--decision-support)
 - [Learning & Education](#learning--education)
 - [Domain-Specific](#domain-specific)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
