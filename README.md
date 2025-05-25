@@ -6,6 +6,10 @@
 <!-- Add badges here if you like (e.g., CI, license, stars) -->
 ![Awesome Ai Tools](https://github.com/user-attachments/assets/04381ec6-8f06-43b1-bb1e-76fd050ebd0c)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=qwertyu-alex/awesome-ai-tools&type=Date)](https://www.star-history.com/#qwertyu-alex/awesome-ai-tools&Date)
+
 ## Why This List?
 
 Artificial-intelligence products now cover nearly every part of modern work and life. This list groups the best of them into categories so you can find what you need—fast and without overlap.
