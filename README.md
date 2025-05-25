@@ -23,80 +23,78 @@ Artificial-intelligence products now cover nearly every part of modern work and 
 
 ---
 
-## Content & Creativity
+## Content & Creativity  
 Tools that produce or transform text, images, audio, or video for creative projects.
 
 | Tool | What it does |
 | --- | --- |
-| **ChatGPT** | Long-form writing, brainstorming, Q&A |
-| **Jasper** | Marketing copy, social posts, brand voice templates |
-| **Midjourney** | High-fidelity image generation from text prompts |
-| **DALL·E 3** | Illustrations and concept art with fine-grained control |
-| **Runway Gen-2** | Text-to-video and advanced video editing |
-| **Descript** | AI-powered podcast and video editing with overdub |
+| [**ChatGPT**](https://chat.openai.com) | Long-form writing, brainstorming, Q&A |
+| [**Jasper**](https://www.jasper.ai) | Marketing copy, social posts, brand voice templates |
+| [**Midjourney**](https://www.midjourney.com) | High-fidelity image generation from text prompts |
+| [**DALL·E 3**](https://openai.com/dall-e) | Illustrations and concept art with fine-grained control |
+| [**Runway Gen-2**](https://runwayml.com) | Text-to-video and advanced video editing |
+| [**Descript**](https://www.descript.com) | AI-powered podcast and video editing with overdub |
 
 ---
 
-## Development & Data
+## Development & Data  
 Assistants and platforms that help build software or work with data.
 
 | Tool | What it does |
 | --- | --- |
-| **GitHub Copilot** | Code suggestions inside IDEs |
-| **Tabnine** | AI code completions with local privacy options |
-| **Replit AI** | In-browser coding assistant and instant deployment |
-| **Jupyter AI** | Natural-language commands and code generation in notebooks |
-| **DataRobot** | AutoML for modeling, evaluation, and deployment |
-| **Pandas-AI** | Ask plain-English questions about your dataframes |
+| [**GitHub Copilot**](https://github.com/features/copilot) | Code suggestions inside IDEs |
+| [**Tabnine**](https://www.tabnine.com) | AI code completions with local privacy options |
+| [**Replit AI**](https://replit.com/site/ai) | In-browser coding assistant and instant deployment |
+| [**Jupyter AI**](https://github.com/jupyterlab/jupyter-ai) | Natural-language commands and code generation in notebooks |
+| [**DataRobot**](https://www.datarobot.com) | AutoML for modeling, evaluation, and deployment |
+| [**Pandas-AI**](https://github.com/gventuri/pandas-ai) | Ask plain-English questions about your dataframes |
 
 ---
 
-## Productivity & Automation
+## Productivity & Automation  
 AI that streamlines routine tasks, workflows, and personal organization.
 
 | Tool | What it does |
 | --- | --- |
-| **Notion AI** | Summaries, brainstorming, and database automations in Notion |
-| **Zapier AI** | Natural-language workflow builder across 5k+ apps |
-| **Microsoft 365 Copilot** | AI help across Word, Excel, PowerPoint, Outlook |
-| **Superhuman AI** | Email triage and instant replies |
-| **IFTTT AI** | Voice-first applets and smart-home automations |
+| [**Notion AI**](https://www.notion.so/product/ai) | Summaries, brainstorming, and database automations in Notion |
+| [**Zapier AI**](https://zapier.com/ai) | Natural-language workflow builder across 5k+ apps |
+| [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) | AI help across Word, Excel, PowerPoint, Outlook |
+| [**Superhuman AI**](https://superhuman.com) | Email triage and instant replies |
+| [**AI Flow Chat**](https://aiflowchat.com/) | No-code workflow tool for automating and chaining AI prompts
 
 ---
 
-## Insight & Decision Support
+## Insight & Decision Support  
 AI for research, analysis, and evidence-based decision-making.
 
 | Tool | What it does |
 | --- | --- |
-| **Perplexity AI** | Real-time answer engine with cited sources |
-| **Wolfram Alpha** | Computation, data analysis, and step-by-step math |
-| **AlphaSense** | Market and financial intelligence from filings and news |
-| **Kagi** | Privacy-focused search with AI summaries |
-| **Genei** | Automatic paper summarization and literature review |
+| [**Perplexity AI**](https://www.perplexity.ai) | Real-time answer engine with cited sources |
+| [**Wolfram Alpha**](https://www.wolframalpha.com) | Computation, data analysis, and step-by-step math |
+| [**AlphaSense**](https://www.alpha-sense.com) | Market and financial intelligence from filings and news |
+| [**Kagi**](https://kagi.com) | Privacy-focused search with AI summaries |
 
 ---
 
-## Learning & Education
+## Learning & Education  
 Tutors, course builders, and study helpers.
 
 | Tool | What it does |
 | --- | --- |
-| **Khanmigo** | AI tutor integrated into Khan Academy lessons |
-| **Socratic** | Homework help via photo or voice (Google) |
-| **Duolingo Max** | AI conversation partner and grammar explanations |
-| **Explainpaper** | Simplifies academic papers paragraph by paragraph |
-| **OtterPilot for Class** | Live lecture transcription and keyword highlights |
+| [**Khanmigo**](https://www.khanacademy.org/khan-labs) | AI tutor integrated into Khan Academy lessons |
+| [**Duolingo Max**](https://www.duolingo.com/duolingo-max) | AI conversation partner and grammar explanations |
+| [**Explainpaper**](https://www.explainpaper.com) | Simplifies academic papers paragraph by paragraph |
+| [**OtterPilot for Class**](https://otter.ai/blog/introducing-otterpilot-for-education) | Live lecture transcription and keyword highlights |
 
 ---
 
-## Domain-Specific
+## Domain-Specific  
 Specialized tools built for particular industries or tasks.
 
 | Field | Tool | What it does |
 | --- | --- | --- |
-| Legal | **Lexion** | Contract review and clause extraction |
-| Healthcare | **PathAI** | AI pathology slide analysis |
-| Life Sciences | **BenchSci** | Antibody search and experiment design |
-| Voice | **ElevenLabs** | High-quality AI voice cloning and narration |
-| Design | **Adobe Firefly** | Generative fill and vector recoloring in Adobe apps |
+| Legal | [**Lexion**](https://www.lexion.ai) | Contract review and clause extraction |
+| Healthcare | [**PathAI**](https://www.pathai.com) | AI pathology slide analysis |
+| Life Sciences | [**BenchSci**](https://www.benchsci.com) | Antibody search and experiment design |
+| Voice | [**ElevenLabs**](https://www.elevenlabs.io) | High-quality AI voice cloning and narration |
+| Design | [**Adobe Firefly**](https://www.adobe.com/sensei/generative-ai/firefly.html) | Generative fill and vector recoloring in Adobe apps |
