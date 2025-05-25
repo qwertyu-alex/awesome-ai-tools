@@ -6,11 +6,14 @@
 <!-- Add badges here if you like (e.g., CI, license, stars) -->
 ![Awesome Ai Tools](https://github.com/user-attachments/assets/04381ec6-8f06-43b1-bb1e-76fd050ebd0c)
 
-
-
 ## Why This List?
 
 Artificial-intelligence products now cover nearly every part of modern work and life. This list groups the best of them into categories so you can find what you need—fast and without overlap.
+
+Other lists were not maintained and it was hard to have them updated because the maintainer was not active. I made this because the AI ecosystem changes fast and as such it is necessary to maintain these lists frequently.
+
+## Remember to Star ✨
+PRs are welcome. Please read CONTRIBUTING.md before submitting.
 
 ## Contents
 
