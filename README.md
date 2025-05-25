@@ -1,8 +1,12 @@
 # Awesome AI Tools
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of AI tools for writing, image generation, coding, research, automation, productivity, and more. Perfect for creators, developers, and anyone looking to use AI in practical, everyday ways.
 
 <!-- Add badges here if you like (e.g., CI, license, stars) -->
+![Awesome Ai Tools](https://github.com/user-attachments/assets/04381ec6-8f06-43b1-bb1e-76fd050ebd0c)
+
+
 
 ## Why This List?
 
