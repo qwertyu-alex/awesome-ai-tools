@@ -39,6 +39,7 @@ Tools that produce or transform text, images, audio, or video for creative proje
 | [**Jasper**](https://www.jasper.ai) | Marketing copy, social posts, brand voice templates |
 | [**Midjourney**](https://www.midjourney.com) | High-fidelity image generation from text prompts |
 | [**DALL·E 3**](https://openai.com/dall-e) | Illustrations and concept art with fine-grained control |
+| [**PhotoRestore.ai**](https://photorestore.ai) | AI-powered old photo restoration — repairs scratches, fading, and colorizes B&W photos |
 | [**Runway Gen-2**](https://runwayml.com) | Text-to-video and advanced video editing |
 | [**Descript**](https://www.descript.com) | AI-powered podcast and video editing with overdub |
 
