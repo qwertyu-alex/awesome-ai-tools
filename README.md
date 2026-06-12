@@ -41,6 +41,7 @@ Tools that produce or transform text, images, audio, or video for creative proje
 | [**DALL·E 3**](https://openai.com/dall-e) | Illustrations and concept art with fine-grained control |
 | [**Runway Gen-2**](https://runwayml.com) | Text-to-video and advanced video editing |
 | [**Descript**](https://www.descript.com) | AI-powered podcast and video editing with overdub |
+| [**CreatorSkills**](https://creatorskills.co) | Marketplace of 30+ downloadable AI skills for YouTube scripting, sponsorship analysis, and audience growth (Claude & ChatGPT) |
 
 ---
 
