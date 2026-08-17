@@ -55,6 +55,7 @@ Assistants and platforms that help build software or work with data.
 | [**Jupyter AI**](https://github.com/jupyterlab/jupyter-ai) | Natural-language commands and code generation in notebooks |
 | [**DataRobot**](https://www.datarobot.com) | AutoML for modeling, evaluation, and deployment |
 | [**Pandas-AI**](https://github.com/gventuri/pandas-ai) | Ask plain-English questions about your dataframes |
+| [**Agent QA**](https://github.com/vostride/agent-qa) | Natural-language web and mobile application testing through a CLI, dashboard, and MCP server |
 
 ---
 
