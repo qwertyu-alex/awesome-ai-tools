@@ -36,6 +36,7 @@ Tools that produce or transform text, images, audio, or video for creative proje
 | Tool | What it does |
 | --- | --- |
 | [**ChatGPT**](https://chat.openai.com) | Long-form writing, brainstorming, Q&A |
+| [**Clout**](https://tryclout.ai/) | AI characters, image/video generation, and faceless content workflows |
 | [**Jasper**](https://www.jasper.ai) | Marketing copy, social posts, brand voice templates |
 | [**Midjourney**](https://www.midjourney.com) | High-fidelity image generation from text prompts |
 | [**DALL·E 3**](https://openai.com/dall-e) | Illustrations and concept art with fine-grained control |
