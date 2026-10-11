@@ -105,3 +105,4 @@ Specialized tools built for particular industries or tasks.
 | Life Sciences | [**BenchSci**](https://www.benchsci.com) | Antibody search and experiment design |
 | Voice | [**ElevenLabs**](https://www.elevenlabs.io) | High-quality AI voice cloning and narration |
 | Design | [**Adobe Firefly**](https://www.adobe.com/sensei/generative-ai/firefly.html) | Generative fill and vector recoloring in Adobe apps |
+| Fashion & Personal Styling | [**RealFun Color**](https://color.realfun.online/?utm_source=github&utm_medium=referral&utm_campaign=qwertyu_alex_awesome_ai_tools) | Selfie-based personal color guidance for wardrobe and makeup choices |
