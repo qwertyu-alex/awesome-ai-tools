@@ -105,3 +105,4 @@ Specialized tools built for particular industries or tasks.
 | Life Sciences | [**BenchSci**](https://www.benchsci.com) | Antibody search and experiment design |
 | Voice | [**ElevenLabs**](https://www.elevenlabs.io) | High-quality AI voice cloning and narration |
 | Design | [**Adobe Firefly**](https://www.adobe.com/sensei/generative-ai/firefly.html) | Generative fill and vector recoloring in Adobe apps |
+| Manga translation | [**AI 만화 번역기**](https://www.mangatranslate.com/ko/ai-manga-translator/) | AI 만화 번역기는 Ficory LLC가 운영하는 기업급 만화 리더와 번역 서비스입니다. 개인 사용자는 여러 페이지를 일괄 번역하고 원하는 방식으로 맞춤 번역을 설정합니다. 스튜디오 사용자는 완전한 온라인 Photoshop 스타일 편집기로 번역문과 페이지를 수정합니다. 사용자는 API를 개인 작업 흐름에 연결합니다. 이 제품은 제품이 지원하는 모든 번역 언어를 제공하며 제한된 무료 사용과 유료 크레딧·구독을 운영합니다. |
