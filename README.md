@@ -64,6 +64,7 @@ AI that streamlines routine tasks, workflows, and personal organization.
 | Tool | What it does |
 | --- | --- |
 | [**Notion AI**](https://www.notion.so/product/ai) | Summaries, brainstorming, and database automations in Notion |
+| [**JobEmerge**](https://www.jobemerge.work) | Job-fit checks, resume editing and translation, application tracking, and text mock interviews |
 | [**Zapier AI**](https://zapier.com/ai) | Natural-language workflow builder across 5k+ apps |
 | [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) | AI help across Word, Excel, PowerPoint, Outlook |
 | [**Superhuman AI**](https://superhuman.com) | Email triage and instant replies |
