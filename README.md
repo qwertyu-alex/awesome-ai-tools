@@ -35,6 +35,7 @@ Tools that produce or transform text, images, audio, or video for creative proje
 
 | Tool | What it does |
 | --- | --- |
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 | [**ChatGPT**](https://chat.openai.com) | Long-form writing, brainstorming, Q&A |
 | [**Jasper**](https://www.jasper.ai) | Marketing copy, social posts, brand voice templates |
 | [**Midjourney**](https://www.midjourney.com) | High-fidelity image generation from text prompts |
